@@ -1,0 +1,15 @@
+{
+  "id": "anmol243/nfl-bdb-2027-the-first-half-second",
+  "title": "NFL BDB 2027 — The First Half-Second",
+  "code_file": "nfl_bdb2027_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "nfl-big-data-bowl-2027"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": []
+}
